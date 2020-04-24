@@ -1,3 +1,0 @@
-[submodule "src/collectd-embedded"]
-	path = src/collectd-embedded
-	url = https://github.com/nuclearcat/collectd-embedded
