@@ -1,8 +1,8 @@
 # arduino-collectd
 CollectD implementation for arduino
 
-Simple way to test it on any ubuntu or raspberry:
-apt-get install collectd
+Simple way to test it, install collectd server on any ubuntu (including raspberry):
+`apt-get install collectd`
 
 Simple /etc/collectd/collectd.conf configuration
 Replace 10.255.255.1 by your internal ip, or if you have DHCP and host is not exposed to internet, use 0.0.0.0
